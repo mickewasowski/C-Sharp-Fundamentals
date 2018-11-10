@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.deps.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.pdb
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.pdb

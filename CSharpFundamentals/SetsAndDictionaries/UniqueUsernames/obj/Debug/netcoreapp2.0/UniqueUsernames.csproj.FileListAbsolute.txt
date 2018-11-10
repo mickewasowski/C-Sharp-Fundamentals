@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.0\UniqueUsernames.deps.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.0\UniqueUsernames.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.0\UniqueUsernames.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.0\UniqueUsernames.dll
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\bin\Debug\netcoreapp2.0\UniqueUsernames.pdb
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.0\UniqueUsernames.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.0\UniqueUsernames.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.0\UniqueUsernames.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.0\UniqueUsernames.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.0\UniqueUsernames.dll
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\UniqueUsernames\obj\Debug\netcoreapp2.0\UniqueUsernames.pdb

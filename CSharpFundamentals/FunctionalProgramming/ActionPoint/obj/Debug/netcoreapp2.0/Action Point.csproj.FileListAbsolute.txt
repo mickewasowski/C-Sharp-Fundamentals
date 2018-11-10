@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\bin\Debug\netcoreapp2.0\Action Point.deps.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\bin\Debug\netcoreapp2.0\Action Point.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\bin\Debug\netcoreapp2.0\Action Point.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\bin\Debug\netcoreapp2.0\Action Point.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\bin\Debug\netcoreapp2.0\Action Point.pdb
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\obj\Debug\netcoreapp2.0\Action Point.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\obj\Debug\netcoreapp2.0\Action Point.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\obj\Debug\netcoreapp2.0\Action Point.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\obj\Debug\netcoreapp2.0\Action Point.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\obj\Debug\netcoreapp2.0\Action Point.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\01\obj\Debug\netcoreapp2.0\Action Point.pdb

@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp2.0\AppliedArithmetics.deps.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp2.0\AppliedArithmetics.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp2.0\AppliedArithmetics.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp2.0\AppliedArithmetics.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp2.0\AppliedArithmetics.pdb
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp2.0\AppliedArithmetics.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp2.0\AppliedArithmetics.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp2.0\AppliedArithmetics.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp2.0\AppliedArithmetics.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp2.0\AppliedArithmetics.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp2.0\AppliedArithmetics.pdb

@@ -1,0 +1,10 @@
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.0\Knights of honor.deps.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.0\Knights of honor.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.0\Knights of honor.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.0\Knights of honor.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp2.0\Knights of honor.pdb
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.0\Knights of honor.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.0\Knights of honor.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.0\Knights of honor.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.0\Knights of honor.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp2.0\Knights of honor.pdb

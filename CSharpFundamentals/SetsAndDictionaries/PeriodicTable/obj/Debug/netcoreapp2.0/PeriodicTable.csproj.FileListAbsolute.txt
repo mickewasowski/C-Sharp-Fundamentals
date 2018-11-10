@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.0\PeriodicTable.deps.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.0\PeriodicTable.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.0\PeriodicTable.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.0\PeriodicTable.dll
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\bin\Debug\netcoreapp2.0\PeriodicTable.pdb
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.0\PeriodicTable.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.0\PeriodicTable.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.0\PeriodicTable.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.0\PeriodicTable.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.0\PeriodicTable.dll
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\PeriodicTable\obj\Debug\netcoreapp2.0\PeriodicTable.pdb

@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.0\SetsOfElements.deps.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.0\SetsOfElements.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.0\SetsOfElements.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.0\SetsOfElements.dll
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\bin\Debug\netcoreapp2.0\SetsOfElements.pdb
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.0\SetsOfElements.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.0\SetsOfElements.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.0\SetsOfElements.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.0\SetsOfElements.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.0\SetsOfElements.dll
+F:\Uni\VSProj\C#Fund\SetsAndDictionaries\SetsOfElements\obj\Debug\netcoreapp2.0\SetsOfElements.pdb

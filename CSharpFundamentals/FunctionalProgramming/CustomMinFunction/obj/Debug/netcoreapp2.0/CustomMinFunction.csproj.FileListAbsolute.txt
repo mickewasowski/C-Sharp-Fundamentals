@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.deps.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp2.0\CustomMinFunction.pdb
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.dll
+F:\Uni\VSProj\C#Fund\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp2.0\CustomMinFunction.pdb
