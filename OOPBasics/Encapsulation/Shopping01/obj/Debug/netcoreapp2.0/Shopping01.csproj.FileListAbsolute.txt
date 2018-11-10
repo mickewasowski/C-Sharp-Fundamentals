@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\bin\Debug\netcoreapp2.0\Shopping01.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\bin\Debug\netcoreapp2.0\Shopping01.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\bin\Debug\netcoreapp2.0\Shopping01.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\bin\Debug\netcoreapp2.0\Shopping01.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\bin\Debug\netcoreapp2.0\Shopping01.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\obj\Debug\netcoreapp2.0\Shopping01.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\obj\Debug\netcoreapp2.0\Shopping01.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\obj\Debug\netcoreapp2.0\Shopping01.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\obj\Debug\netcoreapp2.0\Shopping01.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\obj\Debug\netcoreapp2.0\Shopping01.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Shopping01\obj\Debug\netcoreapp2.0\Shopping01.pdb

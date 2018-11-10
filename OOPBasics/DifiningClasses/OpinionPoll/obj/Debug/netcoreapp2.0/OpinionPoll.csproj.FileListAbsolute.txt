@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\bin\Debug\netcoreapp2.0\OpinionPoll.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OpinionPoll\obj\Debug\netcoreapp2.0\OpinionPoll.pdb

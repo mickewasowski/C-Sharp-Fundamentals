@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.pdb

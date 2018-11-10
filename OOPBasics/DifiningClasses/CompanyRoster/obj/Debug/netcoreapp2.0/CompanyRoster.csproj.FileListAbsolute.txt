@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.pdb

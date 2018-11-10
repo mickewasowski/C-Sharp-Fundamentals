@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.pdb

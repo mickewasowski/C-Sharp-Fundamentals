@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.pdb

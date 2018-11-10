@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\PersonInfo1.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\PersonInfo1.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\PersonInfo1.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\PersonInfo1.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\PersonInfo1.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\PersonInfo1.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\PersonInfo1.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\PersonInfo1.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\PersonInfo1.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\PersonInfo1.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\PersonInfo1.pdb

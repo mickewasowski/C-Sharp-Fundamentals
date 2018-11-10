@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\bin\Debug\netcoreapp2.0\DateModifier.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DateModifier\obj\Debug\netcoreapp2.0\DateModifier.pdb

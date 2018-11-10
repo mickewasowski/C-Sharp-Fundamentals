@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\bin\Debug\netcoreapp2.0\DifiningClasses.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\bin\Debug\netcoreapp2.0\DifiningClasses.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\bin\Debug\netcoreapp2.0\DifiningClasses.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\bin\Debug\netcoreapp2.0\DifiningClasses.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\bin\Debug\netcoreapp2.0\DifiningClasses.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\obj\Debug\netcoreapp2.0\DifiningClasses.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\obj\Debug\netcoreapp2.0\DifiningClasses.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\obj\Debug\netcoreapp2.0\DifiningClasses.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\obj\Debug\netcoreapp2.0\DifiningClasses.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\obj\Debug\netcoreapp2.0\DifiningClasses.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\DifiningClasses\obj\Debug\netcoreapp2.0\DifiningClasses.pdb

@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.pdb

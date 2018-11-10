@@ -1,0 +1,10 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.pdb

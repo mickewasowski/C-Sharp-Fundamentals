@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\DifiningClasses\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.pdb

@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\bin\Debug\netcoreapp2.0\Ferrari.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\InterfacesAndAbstraction\Ferrari\obj\Debug\netcoreapp2.0\Ferrari.pdb

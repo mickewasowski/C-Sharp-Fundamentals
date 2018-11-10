@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.deps.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.0\ClassBoxDataValidation.pdb
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.dll
+F:\Uni\VSProj\C#Fund\OOPBasics\Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.0\ClassBoxDataValidation.pdb
