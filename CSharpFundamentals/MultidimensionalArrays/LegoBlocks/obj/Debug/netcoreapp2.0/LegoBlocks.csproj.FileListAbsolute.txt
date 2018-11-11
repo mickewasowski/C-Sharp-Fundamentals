@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.deps.json
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.dll
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.pdb
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.dll
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.pdb

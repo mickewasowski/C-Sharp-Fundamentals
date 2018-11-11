@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\bin\Debug\netcoreapp2.0\051.deps.json
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\bin\Debug\netcoreapp2.0\051.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\bin\Debug\netcoreapp2.0\051.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\bin\Debug\netcoreapp2.0\051.dll
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\bin\Debug\netcoreapp2.0\051.pdb
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\obj\Debug\netcoreapp2.0\051.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\obj\Debug\netcoreapp2.0\051.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\obj\Debug\netcoreapp2.0\051.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\obj\Debug\netcoreapp2.0\051.dll
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\obj\Debug\netcoreapp2.0\051.pdb
+F:\Uni\VSProj\C#Fund\MultidimensionalArrays\051\obj\Debug\netcoreapp2.0\051.csprojAssemblyReference.cache

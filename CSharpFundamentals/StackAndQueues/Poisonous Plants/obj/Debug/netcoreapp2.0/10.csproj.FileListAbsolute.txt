@@ -1,0 +1,11 @@
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\bin\Debug\netcoreapp2.0\10.deps.json
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\bin\Debug\netcoreapp2.0\10.runtimeconfig.json
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\bin\Debug\netcoreapp2.0\10.runtimeconfig.dev.json
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\bin\Debug\netcoreapp2.0\10.dll
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\bin\Debug\netcoreapp2.0\10.pdb
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\obj\Debug\netcoreapp2.0\10.csprojAssemblyReference.cache
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\obj\Debug\netcoreapp2.0\10.csproj.CoreCompileInputs.cache
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\obj\Debug\netcoreapp2.0\10.AssemblyInfoInputs.cache
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\obj\Debug\netcoreapp2.0\10.AssemblyInfo.cs
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\obj\Debug\netcoreapp2.0\10.dll
+F:\Uni\VSProj\C#Fund\StackAndQueues\10\obj\Debug\netcoreapp2.0\10.pdb
